@@ -4,10 +4,10 @@ variable "region" {
     default = "us-east-2"
 }
 variable "access_key" {
-    default = "AKIAR5TMHQ5UCQ6K6CPX"
+    default = ""
 }
 variable "secret_key" {
-    default = "gvkV0RiSv7HKqMWanFw3tS458iOlrDXBZDRfpGpB"
+    default = ""
 }
 
 variable "myamiid" {
